@@ -1,5 +1,5 @@
 # BitmapFontPack
-Collection of bitmap font decorations for JME. 
+Collection of bitmap font decorations for JME. Over 50 decorated bitmaps using 5 fonts.
 
 ### Screenshots:
 
